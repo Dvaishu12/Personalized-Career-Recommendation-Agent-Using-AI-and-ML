@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+career_agent.db
+.streamlit/secrets.toml

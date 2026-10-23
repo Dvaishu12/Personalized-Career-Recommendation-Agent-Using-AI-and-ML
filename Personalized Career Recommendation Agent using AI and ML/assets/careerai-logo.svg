@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="56" viewBox="0 0 224 56" fill="none">
+  <rect x="2" y="6" width="44" height="44" rx="14" fill="#8CB7FF"/>
+  <path d="M9 23.5L24 16L39 23.5L24 31L9 23.5Z" fill="#10213B"/>
+  <path d="M15 27V33C20.2 37.4 27.8 37.4 33 33V27L24 31.5L15 27Z" fill="#10213B"/>
+  <path d="M38 24V32" stroke="#10213B" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="38" cy="34" r="2" fill="#10213B"/>
+  <text x="57" y="36" fill="#F4F7FD" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="0.2">CareerAI</text>
+</svg>

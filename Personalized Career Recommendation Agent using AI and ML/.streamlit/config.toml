@@ -1,0 +1,27 @@
+[server]
+headless = false
+
+[theme]
+base = "light"
+primaryColor = "#2C64D8"
+backgroundColor = "#F4F7FC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E2A3F"
+font = "sans-serif"
+borderColor = "#DCE4F0"
+showWidgetBorder = true
+baseRadius = "large"
+buttonRadius = "12px"
+linkColor = "#245BC1"
+linkUnderline = false
+greenColor = "#21845F"
+orangeColor = "#B96A18"
+violetColor = "#7652C8"
+chartCategoricalColors = ["#3979ED", "#35A87B", "#8664DF", "#E59A2F", "#D96062", "#168F9A"]
+
+[theme.sidebar]
+backgroundColor = "#111D36"
+secondaryBackgroundColor = "#1A2A4A"
+textColor = "#F4F5FA"
+primaryColor = "#7FA8FF"
+borderColor = "#2C3E5D"
